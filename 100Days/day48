@@ -1,0 +1,14 @@
+## Q1:-  Maximum Product of Three Numbers ##
+
+# n=int(input())
+# nums=list(map(int,input().split()))
+
+# def maxim(nums):
+#     nums.sort()
+
+#     return max( nums[-1] * nums[-2] * nums[-3], nums[0] * nums[-1] * nums[1] ) 
+# ans = maxim(nums)
+# print(ans)
+
+## Q2:-  Merging Intervals
+ 
